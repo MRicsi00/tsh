@@ -14,8 +14,7 @@
 
 # Future plans
 
-- Prompt customization
-- [Test coverage](https://jestjs.io/)
+- Test coverage integrated with CI/CD
 - Release on AUR
 
 *Made based on
